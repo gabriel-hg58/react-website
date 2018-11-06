@@ -2,7 +2,7 @@
   "name": "Site-em-ReactJS",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabriel-hg58.github.io/Website-ReactJS/",
+  "homepage": "https://gabriel-hg58.github.io/react-website/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
